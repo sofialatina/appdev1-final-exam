@@ -15,11 +15,11 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #ffffff;
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  color: #444464;
 }
 
 body {
@@ -47,7 +47,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #000000;
 }
 button:focus,
 button:focus-visible {
@@ -76,7 +76,7 @@ button:focus-visible {
 }
 
 body {
-  background: #3b495f;
+  background: #6f83a3;
   color: #333;
   display: flex;
   justify-content: center;
@@ -103,12 +103,12 @@ body {
 }
 
 .btn-primary {
-  background: #4f46e5;
+  background: #52516a;
   color: white;
 }
 
 .btn-primary:hover {
-  background: #4338ca;
+  background: #6f83a3;
 }
 
 /* Inputs */
@@ -122,7 +122,7 @@ body {
 
 /* Links */
 a {
-  color: #4f46e5;
+  color: #648db3;
   font-weight: 600;
 }
 
