@@ -14,7 +14,7 @@ export default function Home() {
           Login to Create Notes
         </Link>
 
-        <Link to="/todos" className="btn" style={{ textAlign: "center", background: "#e5e7eb" }}>
+        <Link to="/todos" className="btn" style={{ textAlign: "center", background: "#384868ff" }}>
           View Todos
         </Link>
       </div>
